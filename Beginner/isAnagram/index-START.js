@@ -20,6 +20,7 @@ function isAnagram(stringA, stringB) {
 }
 
 // CHARACTER MAP COMPARISON
+//
 
 function isAnagram(stringA, stringB) {
 
